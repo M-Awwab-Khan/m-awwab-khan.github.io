@@ -292,11 +292,11 @@ blockquote {
   .navbar-brand.social {
     padding-bottom: 0;
     padding-top: 0;
-    font-size: 1.7rem;
+    font-size: 1.3rem;
 
     a {
       i::before {
-        color: var(--global-text-color);
+        color: var(--global-social-icon-color);
         transition-property: all 0.2s ease-in-out;
       }
 
