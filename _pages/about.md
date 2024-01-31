@@ -26,4 +26,4 @@ But hey, life isn't just about coding and algorithms. I'm a football fanatic –
 
 I'm not just a tech geek; I'm also fluent in English and Urdu. Good communication is key, right?
 
-So, keep an eye out for Muhammad Awwab Khan – I'm making waves in the software engineering and data science scene. It's all about the journey, and I'm loving every bit of it!
+So, keep an eye out for [Muhammad Awwab Khan](https://www.linkedin.com/in/muhammad-awwab-khan/) – I'm making waves in the software engineering and data science scene. It's all about the journey, and I'm loving every bit of it!
