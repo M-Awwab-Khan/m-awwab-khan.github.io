@@ -16,8 +16,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey there! I'm Muhammad Awwab Khan, and I'm on a tech adventure at NED University of Engineering and Technology. Even though I'm just 17, I'll be hitting the big 18 on April 28th – an exciting step in my academic journey!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am deeply passionate about the vast realms of technology, with a keen interest in data science, machine learning, deep learning, and artificial intelligence. My enthusiasm is evident in my choice of tools, as I proficiently utilizes Python and Jupyter Notebooks for my machine learning projects. I embarked on my data science journey in July 2023, showcasing a remarkable learning curve in a relatively short period.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In addition to my academic pursuits, I am an avid problem solver, actively engaging in platforms like HackerRank and LeetCode to hone my algorithmic skills. My love for mathematics, particularly in the domains of calculus and statistics, complements my analytical mindset, providing a solid foundation for my data science endeavors.
+
+But hey, life isn't just about coding and algorithms. I'm a football fanatic – nothing beats kicking the ball around with my buddies. It's the perfect balance between the virtual and real world, you know?
+
+I'm not just a tech geek; I'm also fluent in English and Urdu. Good communication is key, right?
+
+So, keep an eye out for Muhammad Awwab Khan – I'm making waves in the software engineering and data science scene. It's all about the journey, and I'm loving every bit of it!
