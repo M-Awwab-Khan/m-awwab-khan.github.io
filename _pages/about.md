@@ -16,11 +16,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hey there! I'm Muhammad Awwab Khan, and I'm on a tech adventure at NED University of Engineering and Technology. Even though I'm just 17, I'll be hitting the big 18 on April 28th – an exciting step in my academic journey!
+Hey there! I'm Muhammad Awwab Khan, and I'm on a tech adventure at [NED University of Engineering and Technology](https://www.neduet.edu.pk/). Even though I'm just 17, I'll be hitting the big 18 on April 28th – an exciting step in my academic journey!
 
-I am deeply passionate about the vast realms of technology, with a keen interest in data science, machine learning, deep learning, and artificial intelligence. My enthusiasm is evident in my choice of tools, as I proficiently utilizes Python and Jupyter Notebooks for my machine learning projects. I embarked on my data science journey in July 2023, showcasing a remarkable learning curve in a relatively short period.
+I am deeply passionate about the vast realms of technology, with a keen interest in data science, machine learning, deep learning, and artificial intelligence. My enthusiasm is evident in my choice of tools, as I proficiently utilizes [Python](https://www.python.org/) and [Jupyter Notebooks](https://jupyter.org/) for my machine learning projects. I embarked on my data science journey in July 2023, [showcasing](https://www.datacamp.com/portfolio/marhamkhank) a remarkable learning curve in a relatively short period. 
 
-In addition to my academic pursuits, I am an avid problem solver, actively engaging in platforms like HackerRank and LeetCode to hone my algorithmic skills. My love for mathematics, particularly in the domains of calculus and statistics, complements my analytical mindset, providing a solid foundation for my data science endeavors.
+In addition to my academic pursuits, I am an avid problem solver, actively engaging in platforms like [HackerRank](https://www.hackerrank.com/profile/mawwabkhank2006) and [LeetCode](https://leetcode.com/mawwabkhank2006/) to hone my algorithmic skills. My love for mathematics, particularly in the domains of calculus and statistics, complements my analytical mindset, providing a solid foundation for my data science endeavors.
 
 But hey, life isn't just about coding and algorithms. I'm a football fanatic – nothing beats kicking the ball around with my buddies. It's the perfect balance between the virtual and real world, you know?
 
