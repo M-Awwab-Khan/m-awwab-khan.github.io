@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-## GitHub users
+## M-Awwab-Khan
 
 {% if site.data.repositories.github_users %}
 
