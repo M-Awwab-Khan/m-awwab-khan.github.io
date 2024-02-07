@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - M-Awwab-Khan
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - M-Awwab-Khan/collaborative-filtering-based-book-recommender-application
+  - M-Awwab-Khan/lp-price-prediction-and-recommendation
+  - M-Awwab-Khan/university-management-system-tkinter
+  - M-Awwab-Khan/snake-game-python
